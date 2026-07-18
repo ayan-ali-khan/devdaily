@@ -12,4 +12,11 @@ export const tools: ToolMeta[] = [
         description: "Pretty print and validate raw JSON",
         dateAdded: "2026-07-17"
     },
+    {
+        slug: "regex-tester",
+        title: "Regex Tester",
+        description: "Test a regex pattern against a string with live match highlighting",
+        dateAdded: "2026-07-18"
+    },
+    
 ]
