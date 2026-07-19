@@ -18,5 +18,11 @@ export const tools: ToolMeta[] = [
         description: "Test a regex pattern against a string with live match highlighting",
         dateAdded: "2026-07-18"
     },
+    {
+        slug: "form-validator",
+        title: "Form Validator",
+        description: "Validate form data using Zod schema validation",
+        dateAdded: "2026-07-19"
+    },
     
 ]
