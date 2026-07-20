@@ -24,5 +24,10 @@ export const tools: ToolMeta[] = [
         description: "Validate form data using Zod schema validation",
         dateAdded: "2026-07-19"
     },
-    
+    {
+        slug: "github-lookup",
+        title: "Github Lookup",
+        description: "Look up any GitHub user's profile using a Server Action.",
+        dateAdded: "2026-07-20"
+    },
 ]
