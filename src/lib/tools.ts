@@ -30,4 +30,10 @@ export const tools: ToolMeta[] = [
         description: "Look up any GitHub user's profile using a Server Action.",
         dateAdded: "2026-07-20"
     },
+    {
+        slug: "quote-of-the-day",
+        title: "Quote of the Day",
+        description: "Server-rendered quote with 60 seconds cache revalidtion.",
+        dateAdded: "2026-07-22"
+    },
 ]
