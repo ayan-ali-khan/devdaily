@@ -36,4 +36,10 @@ export const tools: ToolMeta[] = [
         description: "Server-rendered quote with 60 seconds cache revalidtion.",
         dateAdded: "2026-07-22"
     },
+    {
+        slug: "notes",
+        title: "Notes",
+        description: "Full CRUD Notes App backed by Prisma + PostgreSQL.",
+        dateAdded: "2026-07-22"
+    },
 ]
